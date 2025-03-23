@@ -7,3 +7,10 @@ He creado la rama develop.
 He usado el comando git flow init y lo he configurado.
 
 Parte 2:
+
+He creado la nueva funcionalidad con feature/crear-mi-archivo, con git flow feature start crear-mi-archivo
+He creado una carpeta alumnos y un archivo alumno.php.
+He usado los comandos git add. y git commit -m para subirlo a la rama develop.
+
+Parte 3:
+
