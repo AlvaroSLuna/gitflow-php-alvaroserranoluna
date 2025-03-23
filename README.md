@@ -20,3 +20,9 @@ He confirmado los cambios y sube la funcionalidad a develop
 
 Parte 4:
 
+Para generar el conflicto he generado otra rama que se llama develop2, y en cada rama he escrito una linea distinta y 
+lo que he hecho es mergear las ramas, lo cual me ha generado el conflicto.
+Luego solo he tenido que eliminar la linea que daba conflicto y estaba desactualizada.
+
+Parte 5:
+
