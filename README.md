@@ -14,3 +14,9 @@ He usado los comandos git add. y git commit -m para subirlo a la rama develop.
 
 Parte 3:
 
+He creado una nueva funcionalidad en Git Flow llamada feature/modificar-index.
+He creado un index.php y le he agregado contenido.
+He confirmado los cambios y sube la funcionalidad a develop
+
+Parte 4:
+
