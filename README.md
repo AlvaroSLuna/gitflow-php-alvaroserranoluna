@@ -26,3 +26,8 @@ Luego solo he tenido que eliminar la linea que daba conflicto y estaba desactual
 
 Parte 5:
 
+He usado este comando para eliminar el archivo: git rm alumnos/alvaro.php
+He usado los comandos git add. y git commit -m para subirlo a la rama develop.
+
+Parte 6:
+
